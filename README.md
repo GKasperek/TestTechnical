@@ -166,3 +166,15 @@ https://fr.wikipedia.org/wiki/Taquin
 Résolution et génération de taquin :
 https://www.geeksforgeeks.org/check-instance-15-puzzle-solvable/
 https://www.geeksforgeeks.org/check-instance-8-puzzle-solvable/
+
+### Images :
+
+[Meilleur score](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/bestScore.PNG)
+
+[Nouveau meilleur score](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/newBestScore.PNG)
+
+[Taquin fini](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/finished.PNG)
+
+[Taquin perdu](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/gameover.PNG)
+
+[Taquin gagné](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/win.PNG)
