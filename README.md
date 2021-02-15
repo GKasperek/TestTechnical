@@ -167,7 +167,7 @@ Résolution et génération de taquin :
 https://www.geeksforgeeks.org/check-instance-15-puzzle-solvable/
 https://www.geeksforgeeks.org/check-instance-8-puzzle-solvable/
 
-[bestScore](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/bestScore.PNG")
+[bestScore](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/bestScore.PNG)
 
 <img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/newBestScore.PNG" width="200">
 
