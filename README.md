@@ -167,12 +167,14 @@ Résolution et génération de taquin :
 https://www.geeksforgeeks.org/check-instance-15-puzzle-solvable/
 https://www.geeksforgeeks.org/check-instance-8-puzzle-solvable/
 
-[bestScore](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/bestScore.PNG)
+### Images :
 
-<img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/newBestScore.PNG" width="200">
+[Meilleur score](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/bestScore.PNG)
 
-<img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/finished.PNG" width="200">
+[Nouveau meilleur score](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/newBestScore.PNG)
 
-<img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/gameover.PNG" width="200">
+[Taquin fini](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/finished.PNG)
 
-<img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/win.PNG" width="200">
+[Taquin perdu](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/gameover.PNG)
+
+[Taquin gagné](img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/win.PNG)
