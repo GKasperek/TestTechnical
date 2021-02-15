@@ -167,12 +167,12 @@ Résolution et génération de taquin :
 https://www.geeksforgeeks.org/check-instance-15-puzzle-solvable/
 https://www.geeksforgeeks.org/check-instance-8-puzzle-solvable/
 
-<img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/bestScore.PNG" width="200">
+<img src="https://raw.githubusercontent.com/GKasperek/TestTechnical/tree/main/README.Assets/bestScore.PNG" width="200">
 
-<img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/newBestScore.PNG" width="200">
+<img src="https://raw.githubusercontent.com/GKasperek/TestTechnical/tree/main/README.Assets/newBestScore.PNG" width="200">
 
-<img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/finished.PNG" width="200">
+<img src="https://raw.githubusercontent.com/GKasperek/TestTechnical/tree/main/README.Assets/finished.PNG" width="200">
 
-<img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/gameover.PNG" width="200">
+<img src="https://raw.githubusercontent.com/GKasperek/TestTechnical/tree/main/README.Assets/gameover.PNG" width="200">
 
-<img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/win.PNG" width="200">
+<img src="https://raw.githubusercontent.com/GKasperek/TestTechnical/tree/main/README.Assets/win.PNG" width="200">
