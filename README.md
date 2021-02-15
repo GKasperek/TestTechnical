@@ -177,4 +177,4 @@ https://www.geeksforgeeks.org/check-instance-8-puzzle-solvable/
 
 [Taquin perdu](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/gameover.PNG)
 
-[Taquin gagné](img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/win.PNG)
+[Taquin gagné](https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/win.PNG)
