@@ -171,7 +171,7 @@ https://www.geeksforgeeks.org/check-instance-8-puzzle-solvable/
 
 <img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/newBestScore.png" width="200">
 
-<img src=https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/finished.PNG" width="200">
+<img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/finished.PNG" width="200">
 
 <img src="https://github.com/GKasperek/TestTechnical/tree/main/README.Assets/gameover.PNG" width="200">
 
