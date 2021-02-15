@@ -364,7 +364,7 @@ public class TaquinGame : MonoBehaviour
         // Remove then delete palet number 0
         for(int d = 0; d < this.size *this.size; d++)
         {
-            if (taquinList[d] == 0)
+            if (taquinList[d] == 4)
             {
                 GameObject toDelete = Palets[taquinList[d]];
                 this.isEmpty[d] = true;
